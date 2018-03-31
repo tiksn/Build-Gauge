@@ -289,3 +289,6 @@ __pycache__/
 
 # Visual Micro
 __vm/
+
+# Cake
+tools/
